@@ -1,7 +1,6 @@
-**👋 Welcome to the 1-Month Bioinformatics Bootcamp 2026
-**
+**👋 Welcome to the 1-Month Bioinformatics Bootcamp 2026**
 
-Welcome to the official repository of the 1-Month Bioinformatics Bootcamp 2026, proudly organized by** BioCode Innovators**.
+Welcome to the official repository of the 1-Month Bioinformatics Bootcamp 2026, proudly organized by ** BioCode Innovators**.
 
 We are delighted to have you as part of this learning journey. Whether you are a student, researcher, educator, or simply curious about Bioinformatics, this repository has been created to support your growth through structured, open-access educational resources.
 
