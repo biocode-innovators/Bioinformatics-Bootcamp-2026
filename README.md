@@ -10,6 +10,15 @@ Building Strong Foundations in Bioinformatics Through Structured Learning
 
 ---
 
+# Instructor
+
+**Abeera Iftikhar**
+
+Founder & Lead Bioinformatics Instructor
+Lead Strategist — GitHub Portfolio Architecture & Open-Source Guidance
+---
+
+
 ## About the Bootcamp
 
 The **Bioinformatics Bootcamp 2026** is a one-month educational initiative organized by **BioCode Innovators** to introduce students, researchers, educators, and professionals to the fundamentals of Bioinformatics.
@@ -159,7 +168,6 @@ To receive an official certificate, participants must
 **Abeera Iftikhar**
 
 Founder & Lead Bioinformatics Instructor
-
 Lead Strategist — GitHub Portfolio Architecture & Open-Source Guidance
 ---
 
@@ -182,12 +190,6 @@ Please read the **CONTRIBUTING.md** document before submitting any contributions
 All participants are expected to maintain a respectful, inclusive, and collaborative learning environment.
 
 Please refer to **CODE_OF_CONDUCT.md**.
-
----
-
-# License
-
-This repository is licensed under the MIT License unless otherwise specified.
 
 ---
 
