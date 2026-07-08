@@ -12,7 +12,7 @@ Building Strong Foundations in Bioinformatics Through Structured Learning
 
 # Instructor
 
-**Abeera Iftikhar**
+# **Abeera Iftikhar**
 
 Founder & Lead Bioinformatics Instructor
 
