@@ -15,7 +15,9 @@ Building Strong Foundations in Bioinformatics Through Structured Learning
 **Abeera Iftikhar**
 
 Founder & Lead Bioinformatics Instructor
+
 Lead Strategist — GitHub Portfolio Architecture & Open-Source Guidance
+
 ---
 
 
@@ -161,14 +163,6 @@ To receive an official certificate, participants must
 - Complete all required assessments
 - Submit the feedback form
 
----
-
-# Instructor
-
-**Abeera Iftikhar**
-
-Founder & Lead Bioinformatics Instructor
-Lead Strategist — GitHub Portfolio Architecture & Open-Source Guidance
 ---
 
 # About BioCode Innovators
